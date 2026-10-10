@@ -1,0 +1,25 @@
+# Secrets
+.env
+*.env
+
+# Local state and databases
+user_stash.json
+*.db
+*.sqlite3
+
+# Audio downloads and temporary files
+*.ogg
+*.wav
+*.mp3
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
